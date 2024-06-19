@@ -1,3 +1,5 @@
+package passoum;
+
 public class teste {
     public static void main(String[] args) {
         String primeiroNome = "Rafael";
