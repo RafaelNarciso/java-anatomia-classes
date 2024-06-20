@@ -1,4 +1,4 @@
-package passoum;
+package edu.rafael.segundasemana;
 
 public class teste {
     public static void main(String[] args) {
